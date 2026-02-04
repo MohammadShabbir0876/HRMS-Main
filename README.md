@@ -1,0 +1,2 @@
+# HRMS
+ lightweight Human Resource Management System  (HRMS Lite).
